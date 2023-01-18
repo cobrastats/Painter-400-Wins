@@ -1,0 +1,594 @@
+﻿total,g,day,month,date,year,type,location,opponent,rank,conference,wl,team_score,opp_score,ot,mov,last,streak,arena,state,abbr
+593,17,Friday,January,13,2023,REG,1,Nebraska,,Big Ten,1,73,55,0,18,W,3,Mackey Arena,Indiana,IN
+592,16,Sunday,January,8,2023,REG,2,Penn State,,Big Ten,1,76,63,0,13,W,2,The Palestra,Pennsylvania,PA
+591,15,Thursday,January,5,2023,REG,2,Ohio State,24,Big Ten,1,71,69,0,2,W,1,Value City Arena,Ohio,OH
+590,14,Monday,January,2,2023,REG,1,Rutgers,,Big Ten,0,64,65,0,-1,L,1,Mackey Arena,Indiana,IN
+589,13,Thursday,December,29,2022,REG,1,Florida A&M,,SWAC,1,82,49,0,33,W,13,Mackey Arena,Indiana,IN
+588,12,Wednesday,December,21,2022,REG,1,New Orleans,,Southland,1,74,53,0,21,W,12,Mackey Arena,Indiana,IN
+587,11,Saturday,December,17,2022,REG,3,Davidson,,A-10,1,69,61,0,8,W,11,Gainbridge Fieldhouse,Indiana,IN
+586,10,Saturday,December,10,2022,REG,2,Nebraska,,Big Ten,1,65,62,1,3,W,10,Pinnacle Bank Arena,Nebraska,NE
+585,9,Wednesday,December,7,2022,REG,1,Hofstra,,CAA,1,85,66,0,19,W,9,Mackey Arena,Indiana,IN
+584,8,Sunday,December,4,2022,REG,1,Minnesota,,Big Ten,1,89,70,0,19,W,8,Mackey Arena,Indiana,IN
+583,7,Wednesday,November,30,2022,REG,2,Florida State,,ACC,1,79,69,0,10,W,7,Donald L. Tucker Civic Center,Florida,FL
+582,6,Sunday,November,27,2022,REG,3,Duke,8,ACC,1,75,56,0,19,W,6,Moda Center,Oregon,OR
+581,5,Friday,November,25,2022,REG,3,Gonzaga,6,WCC,1,84,66,0,18,W,5,Moda Center,Oregon,OR
+580,4,Thursday,November,24,2022,REG,3,West Virginia,,Big 12,1,80,68,0,12,W,4,Veterans Memorial Coliseum,Oregon,OR
+579,3,Tuesday,November,15,2022,REG,1,Marquette,,Big East,1,75,70,0,5,W,3,Mackey Arena,Indiana,IN
+578,2,Friday,November,11,2022,REG,1,Austin Peay,,A-Sun,1,63,44,0,19,W,2,Mackey Arena,Indiana,IN
+577,1,Tuesday,November,8,2022,REG,1,Milwaukee,,Horizon,1,84,53,0,31,W,1,Mackey Arena,Indiana,IN
+576,37,Friday,March,25,2022,NCAA,3,Saint Peter's,,MAAC,0,64,67,0,-3,L,1,Wells Fargo Center,Pennsylvania,PA
+575,36,Sunday,March,20,2022,NCAA,3,Texas,25,Big 12,1,81,71,0,10,W,2,Fiserv Forum,Wisconsin,WI
+574,35,Friday,March,18,2022,NCAA,3,Yale,,Ivy,1,78,56,0,22,W,1,Fiserv Forum,Wisconsin,WI
+573,34,Sunday,March,13,2022,CTOURN,3,Iowa,24,Big Ten,0,66,75,0,-9,L,1,Gainbridge Fieldhouse,Indiana,IN
+572,33,Saturday,March,12,2022,CTOURN,3,Michigan State,,Big Ten,1,75,70,0,5,W,3,Gainbridge Fieldhouse,Indiana,IN
+571,32,Friday,March,11,2022,CTOURN,3,Penn State,,Big Ten,1,69,61,0,8,W,2,Gainbridge Fieldhouse,Indiana,IN
+570,31,Saturday,March,5,2022,REG,1,Indiana,,Big Ten,1,69,67,0,2,W,1,Mackey Arena,Indiana,IN
+569,30,Tuesday,March,1,2022,REG,2,Wisconsin,10,Big Ten,0,67,70,0,-3,L,2,Kohl Center,Wisconsin,WI
+568,29,Saturday,February,26,2022,REG,2,Michigan State,,Big Ten,0,65,68,0,-3,L,1,Breslin Student Events Center,Michigan,MI
+567,28,Sunday,February,20,2022,REG,1,Rutgers,,Big Ten,1,84,72,0,12,W,3,Mackey Arena,Indiana,IN
+566,27,Wednesday,February,16,2022,REG,2,Northwestern,,Big Ten,1,70,64,0,6,W,2,Welsh-Ryan Arena,Illinois,IL
+565,26,Sunday,February,13,2022,REG,1,Maryland,,Big Ten,1,62,61,0,1,W,1,Mackey Arena,Indiana,IN
+564,25,Thursday,February,10,2022,REG,2,Michigan,,Big Ten,0,58,82,0,-24,L,1,Crisler Arena,Michigan,MI
+563,24,Tuesday,February,8,2022,REG,1,Illinois,13,Big Ten,1,84,68,0,16,W,6,Mackey Arena,Indiana,IN
+562,23,Saturday,February,5,2022,REG,1,Michigan,,Big Ten,1,82,76,0,6,W,5,Mackey Arena,Indiana,IN
+561,22,Wednesday,February,2,2022,REG,2,Minnesota,,Big Ten,1,88,73,0,15,W,4,Williams Arena,Minnesota,MN
+560,21,Sunday,January,30,2022,REG,1,Ohio State,16,Big Ten,1,81,78,0,3,W,3,Mackey Arena,Indiana,IN
+559,20,Thursday,January,27,2022,REG,2,Iowa,,Big Ten,1,83,73,0,10,W,2,Carver-Hawkeye Arena,Iowa,IA
+558,19,Sunday,January,23,2022,REG,1,Northwestern,,Big Ten,1,80,60,0,20,W,1,Mackey Arena,Indiana,IN
+557,18,Thursday,January,20,2022,REG,2,Indiana,,Big Ten,0,65,68,0,-3,L,1,Assembly Hall,Indiana,IN
+556,17,Monday,January,17,2022,REG,2,Illinois,17,Big Ten,1,96,88,2,8,W,3,State Farm Center,Illinois,IL
+555,16,Friday,January,14,2022,REG,1,Nebraska,,Big Ten,1,92,65,0,27,W,2,Mackey Arena,Indiana,IN
+554,15,Saturday,January,8,2022,REG,2,Penn State,,Big Ten,1,74,67,0,7,W,1,Bryce Jordan Center,Pennsylvania,PA
+553,14,Monday,January,3,2022,REG,1,Wisconsin,23,Big Ten,0,69,74,0,-5,L,1,Mackey Arena,Indiana,IN
+552,13,Wednesday,December,29,2021,REG,1,Nicholls State,,Southland,1,104,90,0,14,W,4,Mackey Arena,Indiana,IN
+551,12,Monday,December,20,2021,REG,1,Incarnate Word,,Southland,1,79,59,0,20,W,3,Mackey Arena,Indiana,IN
+550,11,Saturday,December,18,2021,REG,3,Butler,,Big East,1,77,48,0,29,W,2,Gainbridge Fieldhouse,Indiana,IN
+549,10,Sunday,December,12,2021,REG,3,NC State,,ACC,1,82,72,1,10,W,1,Barclays Center,New York,NY
+548,9,Thursday,December,9,2021,REG,2,Rutgers,,Big Ten,0,68,70,0,-2,L,1,Jersey Mike''s Arena,New Jersey,NJ
+547,8,Friday,December,3,2021,REG,1,Iowa,,Big Ten,1,77,70,0,7,W,8,Mackey Arena,Indiana,IN
+546,7,Tuesday,November,30,2021,REG,1,Florida State,,ACC,1,93,65,0,28,W,7,Mackey Arena,Indiana,IN
+545,6,Friday,November,26,2021,REG,1,Omaha,,Summit,1,97,40,0,57,W,6,Mackey Arena,Indiana,IN
+544,5,Sunday,November,21,2021,REG,3,Villanova,5,Big East,1,80,74,0,6,W,5,Mohegan Sun Arena,Connecticut,CT
+543,4,Saturday,November,20,2021,REG,3,North Carolina,18,ACC,1,93,84,0,9,W,4,Mohegan Sun Arena,Connecticut,CT
+542,3,Tuesday,November,16,2021,REG,1,Wright State,,Horizon,1,96,52,0,44,W,3,Mackey Arena,Indiana,IN
+541,2,Friday,November,12,2021,REG,1,Indiana State,,MVC,1,92,67,0,25,W,2,Mackey Arena,Indiana,IN
+540,1,Tuesday,November,9,2021,REG,1,Bellarmine,,A-Sun,1,96,67,0,29,W,1,Mackey Arena,Indiana,IN
+539,28,Friday,March,19,2021,NCAA,3,North Texas,,CUSA,0,69,78,1,-9,L,2,Lucas Oil Stadium,Indiana,IN
+538,27,Friday,March,12,2021,CTOURN,3,Ohio State,9,Big Ten,0,78,87,1,-9,L,1,Lucas Oil Stadium,Indiana,IN
+537,26,Saturday,March,6,2021,REG,1,Indiana,,Big Ten,1,67,58,0,9,W,5,Mackey Arena,Indiana,IN
+536,25,Tuesday,March,2,2021,REG,1,Wisconsin,25,Big Ten,1,73,69,0,4,W,4,Mackey Arena,Indiana,IN
+535,24,Friday,February,26,2021,REG,2,Penn State,,Big Ten,1,73,52,0,21,W,3,Bryce Jordan Center,Pennsylvania,PA
+534,23,Saturday,February,20,2021,REG,2,Nebraska,,Big Ten,1,75,58,0,17,W,2,Pinnacle Bank Arena,Nebraska,NE
+533,22,Tuesday,February,16,2021,REG,1,Michigan State,,Big Ten,1,75,65,0,10,W,1,Mackey Arena,Indiana,IN
+532,21,Thursday,February,11,2021,REG,2,Minnesota,,Big Ten,0,68,71,0,-3,L,1,Williams Arena,Minnesota,MN
+531,20,Saturday,February,6,2021,REG,1,Northwestern,,Big Ten,1,75,70,0,5,W,1,Mackey Arena,Indiana,IN
+530,19,Tuesday,February,2,2021,REG,2,Maryland,,Big Ten,0,60,61,0,-1,L,1,Xfinity Center,Maryland,MD
+529,18,Saturday,January,30,2021,REG,1,Minnesota,21,Big Ten,1,81,62,0,19,W,1,Mackey Arena,Indiana,IN
+528,17,Friday,January,22,2021,REG,1,Michigan,7,Big Ten,0,53,70,0,-17,L,1,Mackey Arena,Indiana,IN
+527,16,Tuesday,January,19,2021,REG,2,Ohio State,15,Big Ten,1,67,65,0,2,W,4,Value City Arena,Ohio,OH
+526,15,Sunday,January,17,2021,REG,1,Penn State,,Big Ten,1,80,72,0,8,W,3,Mackey Arena,Indiana,IN
+525,14,Thursday,January,14,2021,REG,2,Indiana,,Big Ten,1,81,69,0,12,W,2,Assembly Hall,Indiana,IN
+524,13,Friday,January,8,2021,REG,2,Michigan State,23,Big Ten,1,55,54,0,1,W,1,Breslin Student Events Center,Michigan,MI
+523,12,Saturday,January,2,2021,REG,2,Illinois,15,Big Ten,0,58,66,0,-8,L,2,State Farm Center,Illinois,IL
+522,11,Tuesday,December,29,2020,REG,2,Rutgers,14,Big Ten,0,76,81,0,-5,L,1,Jersey Mike''s Arena,New Jersey,NJ
+521,10,Friday,December,25,2020,REG,1,Maryland,,Big Ten,1,73,70,0,3,W,1,Mackey Arena,Indiana,IN
+520,9,Tuesday,December,22,2020,REG,2,Iowa,4,Big Ten,0,55,70,0,-15,L,1,Carver-Hawkeye Arena,Iowa,IA
+519,8,Saturday,December,19,2020,REG,3,Notre Dame,,ACC,1,88,78,0,10,W,3,Gainbridge Fieldhouse,Indiana,IN
+518,7,Wednesday,December,16,2020,REG,1,Ohio State,20,Big Ten,1,67,60,0,7,W,2,Mackey Arena,Indiana,IN
+517,6,Saturday,December,12,2020,REG,1,Indiana State,,MVC,1,80,68,0,12,W,1,Mackey Arena,Indiana,IN
+516,5,Tuesday,December,8,2020,REG,2,Miami (FL),,ACC,0,54,58,0,-4,L,1,BankUnited Center,Florida,FL
+515,4,Friday,December,4,2020,REG,1,Valparaiso,,MVC,1,68,61,0,7,W,2,Mackey Arena,Indiana,IN
+514,3,Tuesday,December,1,2020,REG,1,Oakland,,Horizon,1,93,50,0,43,W,1,Mackey Arena,Indiana,IN
+513,2,Thursday,November,26,2020,REG,3,Clemson,,ACC,0,70,81,0,-11,L,1,Titan Field House,Florida,FL
+512,1,Wednesday,November,25,2020,REG,3,Liberty,,A-Sun,1,77,64,0,13,W,1,Titan Field House,Florida,FL
+511,31,Saturday,March,7,2020,REG,1,Rutgers,,Big Ten,0,68,71,1,-3,L,1,Mackey Arena,Indiana,IN
+510,30,Tuesday,March,3,2020,REG,2,Iowa,18,Big Ten,1,77,68,0,9,W,2,Carver-Hawkeye Arena,Iowa,IA
+509,29,Thursday,February,27,2020,REG,1,Indiana,,Big Ten,1,57,49,0,8,W,1,Mackey Arena,Indiana,IN
+508,28,Saturday,February,22,2020,REG,1,Michigan,,Big Ten,0,63,71,0,-8,L,4,Mackey Arena,Indiana,IN
+507,27,Tuesday,February,18,2020,REG,2,Wisconsin,,Big Ten,0,65,69,0,-4,L,3,Kohl Center,Wisconsin,WI
+506,26,Saturday,February,15,2020,REG,2,Ohio State,,Big Ten,0,52,68,0,-16,L,2,Value City Arena,Ohio,OH
+505,25,Tuesday,February,11,2020,REG,1,Penn State,13,Big Ten,0,76,88,0,-12,L,1,Mackey Arena,Indiana,IN
+504,24,Saturday,February,8,2020,REG,2,Indiana,,Big Ten,1,74,62,0,12,W,3,Assembly Hall,Indiana,IN
+503,23,Wednesday,February,5,2020,REG,1,Iowa,17,Big Ten,1,104,68,0,36,W,2,Mackey Arena,Indiana,IN
+502,22,Saturday,February,1,2020,REG,2,Northwestern,,Big Ten,1,61,58,0,3,W,1,Welsh-Ryan Arena,Illinois,IL
+501,21,Tuesday,January,28,2020,REG,2,Rutgers,25,Big Ten,0,63,70,0,-7,L,1,Jersey Mike''s Arena,New Jersey,NJ
+500,20,Friday,January,24,2020,REG,1,Wisconsin,,Big Ten,1,70,51,0,19,W,1,Mackey Arena,Indiana,IN
+499,19,Tuesday,January,21,2020,REG,1,Illinois,21,Big Ten,0,62,79,0,-17,L,2,Mackey Arena,Indiana,IN
+498,18,Saturday,January,18,2020,REG,2,Maryland,17,Big Ten,0,50,57,0,-7,L,1,Xfinity Center,Maryland,MD
+497,17,Sunday,January,12,2020,REG,1,Michigan State,8,Big Ten,1,71,42,0,29,W,1,Mackey Arena,Indiana,IN
+496,16,Thursday,January,9,2020,REG,2,Michigan,19,Big Ten,0,78,84,2,-6,L,2,Crisler Arena,Michigan,MI
+495,15,Sunday,January,5,2020,REG,2,Illinois,,Big Ten,0,37,63,0,-26,L,1,State Farm Center,Illinois,IL
+494,14,Thursday,January,2,2020,REG,1,Minnesota,,Big Ten,1,83,78,2,5,W,2,Mackey Arena,Indiana,IN
+493,13,Saturday,December,28,2019,REG,1,Central Michigan,,MAC,1,97,62,0,35,W,1,Mackey Arena,Indiana,IN
+492,12,Saturday,December,21,2019,REG,3,Butler,17,Big East,0,61,70,0,-9,L,1,Gainbridge Fieldhouse,Indiana,IN
+491,11,Tuesday,December,17,2019,REG,2,Ohio,,MAC,1,69,51,0,18,W,1,Convocation Center,Ohio,OH
+490,10,Sunday,December,15,2019,REG,2,Nebraska,,Big Ten,0,56,70,0,-14,L,1,Pinnacle Bank Arena,Nebraska,NE
+489,9,Sunday,December,8,2019,REG,1,Northwestern,,Big Ten,1,58,44,0,14,W,2,Mackey Arena,Indiana,IN
+488,8,Wednesday,December,4,2019,REG,1,Virginia,5,ACC,1,69,40,0,29,W,1,Mackey Arena,Indiana,IN
+487,7,Saturday,November,30,2019,REG,3,Florida State,,ACC,0,60,63,1,-3,L,1,The Arena at Northwest Florida State College,Florida,FL
+486,6,Friday,November,29,2019,REG,3,Virginia Commonwealth,20,A-10,1,59,56,0,3,W,3,The Arena at Northwest Florida State College,Florida,FL
+485,5,Saturday,November,23,2019,REG,1,Jacksonville State,,OVC,1,81,49,0,32,W,2,Mackey Arena,Indiana,IN
+484,4,Saturday,November,16,2019,REG,1,Chicago State,,WAC,1,93,49,0,44,W,1,Mackey Arena,Indiana,IN
+483,3,Wednesday,November,13,2019,REG,2,Marquette,,Big East,0,55,65,0,-10,L,2,Fiserv Forum,Wisconsin,WI
+482,2,Saturday,November,9,2019,REG,1,Texas,,Big 12,0,66,70,0,-4,L,1,Mackey Arena,Indiana,IN
+481,1,Wednesday,November,6,2019,REG,1,Green Bay,,Horizon,1,79,57,0,22,W,1,Mackey Arena,Indiana,IN
+480,36,Saturday,March,30,2019,NCAA,3,Virginia,2,ACC,0,75,80,1,-5,L,1,KFC Yum! Center,Kentucky,KY
+479,35,Thursday,March,28,2019,NCAA,3,Tennessee,6,SEC,1,99,94,1,5,W,3,KFC Yum! Center,Kentucky,KY
+478,34,Saturday,March,23,2019,NCAA,3,Villanova,23,Big East,1,87,61,0,26,W,2,XL Center,Connecticut,CT
+477,33,Thursday,March,21,2019,NCAA,3,Old Dominion,,CUSA,1,61,48,0,13,W,1,XL Center,Connecticut,CT
+476,32,Friday,March,15,2019,CTOURN,3,Minnesota,,Big Ten,0,73,75,0,-2,L,1,United Center,Illinois,IL
+475,31,Saturday,March,9,2019,REG,2,Northwestern,,Big Ten,1,70,57,0,13,W,1,Welsh-Ryan Arena,Illinois,IL
+474,30,Tuesday,March,5,2019,REG,2,Minnesota,,Big Ten,0,69,73,0,-4,L,1,Williams Arena,Minnesota,MN
+473,29,Saturday,March,2,2019,REG,1,Ohio State,,Big Ten,1,86,51,0,35,W,5,Mackey Arena,Indiana,IN
+472,28,Wednesday,February,27,2019,REG,1,Illinois,,Big Ten,1,73,56,0,17,W,4,Mackey Arena,Indiana,IN
+471,27,Saturday,February,23,2019,REG,2,Nebraska,,Big Ten,1,75,72,0,3,W,3,Pinnacle Bank Arena,Nebraska,NE
+470,26,Tuesday,February,19,2019,REG,2,Indiana,,Big Ten,1,48,46,0,2,W,2,Assembly Hall,Indiana,IN
+469,25,Saturday,February,16,2019,REG,1,Penn State,,Big Ten,1,76,64,0,12,W,1,Mackey Arena,Indiana,IN
+468,24,Tuesday,February,12,2019,REG,2,Maryland,24,Big Ten,0,56,70,0,-14,L,1,Xfinity Center,Maryland,MD
+467,23,Saturday,February,9,2019,REG,1,Nebraska,,Big Ten,1,81,62,0,19,W,8,Mackey Arena,Indiana,IN
+466,22,Sunday,February,3,2019,REG,1,Minnesota,,Big Ten,1,73,63,0,10,W,7,Mackey Arena,Indiana,IN
+465,21,Thursday,January,31,2019,REG,2,Penn State,,Big Ten,1,99,90,1,9,W,6,Bryce Jordan Center,Pennsylvania,PA
+464,20,Sunday,January,27,2019,REG,1,Michigan State,6,Big Ten,1,73,63,0,10,W,5,Mackey Arena,Indiana,IN
+463,19,Wednesday,January,23,2019,REG,2,Ohio State,,Big Ten,1,79,67,0,12,W,4,Value City Arena,Ohio,OH
+462,18,Saturday,January,19,2019,REG,1,Indiana,25,Big Ten,1,70,55,0,15,W,3,Mackey Arena,Indiana,IN
+461,17,Tuesday,January,15,2019,REG,1,Rutgers,,Big Ten,1,89,54,0,35,W,2,Mackey Arena,Indiana,IN
+460,16,Friday,January,11,2019,REG,2,Wisconsin,,Big Ten,1,84,80,1,4,W,1,Kohl Center,Wisconsin,WI
+459,15,Tuesday,January,8,2019,REG,2,Michigan State,6,Big Ten,0,59,77,0,-18,L,1,Breslin Student Events Center,Michigan,MI
+458,14,Thursday,January,3,2019,REG,1,Iowa,25,Big Ten,1,86,70,0,16,W,3,Mackey Arena,Indiana,IN
+457,13,Saturday,December,29,2018,REG,1,Belmont,,OVC,1,73,62,0,11,W,2,Mackey Arena,Indiana,IN
+456,12,Thursday,December,20,2018,REG,1,Ohio,,MAC,1,95,67,0,28,W,1,Mackey Arena,Indiana,IN
+455,11,Saturday,December,15,2018,REG,3,Notre Dame,,ACC,0,80,88,0,-8,L,2,Gainbridge Fieldhouse,Indiana,IN
+454,10,Sunday,December,9,2018,REG,2,Texas,,Big 12,0,68,72,0,-4,L,1,Frank Erwin Center,Texas,TX
+453,9,Thursday,December,6,2018,REG,1,Maryland,23,Big Ten,1,62,60,0,2,W,1,Mackey Arena,Indiana,IN
+452,8,Saturday,December,1,2018,REG,2,Michigan,7,Big Ten,0,57,76,0,-19,L,2,Crisler Arena,Michigan,MI
+451,7,Wednesday,November,28,2018,REG,2,Florida State,15,ACC,0,72,73,0,-1,L,1,Donald L. Tucker Civic Center,Flordia,FL
+450,6,Friday,November,23,2018,REG,1,Robert Morris,,NEC,1,84,46,0,38,W,1,Mackey Arena,Indiana,IN
+449,5,Sunday,November,18,2018,REG,3,Virginia Tech,16,ACC,0,83,89,0,-6,L,1,TD Arena,South Carolina,SC
+448,4,Friday,November,16,2018,REG,3,Davidson,,A-10,1,79,58,0,21,W,4,TD Arena,South Carolina,SC
+447,3,Thursday,November,15,2018,REG,3,Appalachian State,,Sun Belt,1,92,70,0,22,W,3,TD Arena,South Carolina,SC
+446,2,Saturday,November,10,2018,REG,1,Ball State,,MAC,1,84,75,0,9,W,2,Mackey Arena,Indiana,IN
+445,1,Tuesday,November,6,2018,REG,1,Fairfield,,MAAC,1,90,57,0,33,W,1,Mackey Arena,Indiana,IN
+444,37,Friday,March,23,2018,NCAA,3,Texas Tech,14,Big 12,0,65,78,0,-13,L,1,TD Garden,Massachusetts,MA
+443,36,Sunday,March,18,2018,NCAA,3,Butler,,Big East,1,76,73,0,3,W,2,Little Caesars Arena,Michigan,MI
+442,35,Friday,March,16,2018,NCAA,3,Cal State Fullerton,,Big West,1,74,48,0,26,W,1,Little Caesars Arena,Michigan,MI
+441,34,Sunday,March,4,2018,CTOURN,3,Michigan,15,Big Ten,0,66,75,0,-9,L,1,Madison Square Garden (IV),New York,NY
+440,33,Saturday,March,3,2018,CTOURN,3,Penn State,,Big Ten,1,78,70,0,8,W,5,Madison Square Garden (IV),New York,NY
+439,32,Friday,March,2,2018,CTOURN,3,Rutgers,,Big Ten,1,82,75,0,7,W,4,Madison Square Garden (IV),New York,NY
+438,31,Sunday,February,25,2018,REG,1,Minnesota,,Big Ten,1,84,60,0,24,W,3,Mackey Arena,Indiana,IN
+437,30,Thursday,February,22,2018,REG,2,Illinois,,Big Ten,1,93,86,0,7,W,2,State Farm Center,Illinois,IL
+436,29,Sunday,February,18,2018,REG,1,Penn State,,Big Ten,1,76,73,0,3,W,1,Mackey Arena,Indiana,IN
+435,28,Thursday,February,15,2018,REG,2,Wisconsin,,Big Ten,0,53,57,0,-4,L,3,Kohl Center,Wisconsin,WI
+434,27,Saturday,February,10,2018,REG,2,Michigan State,4,Big Ten,0,65,68,0,-3,L,2,Breslin Student Events Center,Michigan,MI
+433,26,Wednesday,February,7,2018,REG,1,Ohio State,14,Big Ten,0,63,64,0,-1,L,1,Mackey Arena,Indiana,IN
+432,25,Saturday,February,3,2018,REG,2,Rutgers,,Big Ten,1,78,76,0,2,W,19,Jersey Mike''s Arena,New Jersey,NJ
+431,24,Wednesday,January,31,2018,REG,1,Maryland,,Big Ten,1,75,67,0,8,W,18,Mackey Arena,Indiana,IN
+430,23,Sunday,January,28,2018,REG,2,Indiana,,Big Ten,1,74,67,0,7,W,17,Assembly Hall,Indiana,IN
+429,22,Thursday,January,25,2018,REG,1,Michigan,25,Big Ten,1,92,88,0,4,W,16,Mackey Arena,Indiana,IN
+428,21,Saturday,January,20,2018,REG,2,Iowa,,Big Ten,1,87,64,0,23,W,15,Carver-Hawkeye Arena,Iowa,IA
+427,20,Tuesday,January,16,2018,REG,1,Wisconsin,,Big Ten,1,78,50,0,28,W,14,Mackey Arena,Indiana,IN
+426,19,Saturday,January,13,2018,REG,2,Minnesota,,Big Ten,1,81,47,0,34,W,13,Williams Arena,Minnesota,MN
+425,18,Tuesday,January,9,2018,REG,2,Michigan,,Big Ten,1,70,69,0,1,W,12,Crisler Arena,Michigan,MI
+424,17,Saturday,January,6,2018,REG,1,Nebraska,,Big Ten,1,74,62,0,12,W,11,Mackey Arena,Indiana,IN
+423,16,Wednesday,January,3,2018,REG,1,Rutgers,,Big Ten,1,82,51,0,31,W,10,Mackey Arena,Indiana,IN
+422,15,Saturday,December,30,2017,REG,1,Lipscomb,,A-Sun,1,98,66,0,32,W,9,Mackey Arena,Indiana,IN
+421,14,Thursday,December,21,2017,REG,1,Tennessee State,,OVC,1,97,48,0,49,W,8,Mackey Arena,Indiana,IN
+420,13,Saturday,December,16,2017,REG,3,Butler,,Big East,1,82,67,0,15,W,7,Gainbridge Fieldhouse,Indiana,IN
+419,12,Sunday,December,10,2017,REG,1,IUPUI,,Horizon,1,86,61,0,25,W,6,Mackey Arena,Indiana,IN
+418,11,Thursday,December,7,2017,REG,1,Valparaiso,,MVC,1,80,50,0,30,W,5,Mackey Arena,Indiana,IN
+417,10,Sunday,December,3,2017,REG,1,Northwestern,,Big Ten,1,74,69,0,5,W,4,Mackey Arena,Indiana,IN
+416,9,Friday,December,1,2017,REG,2,Maryland,,Big Ten,1,80,75,0,5,W,3,Xfinity Center,Maryland,MD
+415,8,Tuesday,November,28,2017,REG,1,Louisville,17,ACC,1,66,57,0,9,W,2,Mackey Arena,Indiana,IN
+414,7,Friday,November,24,2017,REG,3,Arizona,2,Pac-12,1,89,64,0,25,W,1,Imperial Arena at Atlantis Resort,Bahamas,BA
+413,6,Thursday,November,23,2017,REG,3,Western Kentucky,,CUSA,0,73,77,0,-4,L,2,Imperial Arena at Atlantis Resort,Bahamas,BA
+412,5,Wednesday,November,22,2017,REG,3,Tennessee,,SEC,0,75,78,1,-3,L,1,Imperial Arena at Atlantis Resort,Bahamas,BA
+411,4,Saturday,November,18,2017,REG,1,Fairfield,,MAAC,1,106,64,0,42,W,4,Mackey Arena,Indiana,IN
+410,3,Tuesday,November,14,2017,REG,2,Marquette,,Big East,1,86,71,0,15,W,3,BMO Harris Bradley Center,Wisconsin,WI
+409,2,Sunday,November,12,2017,REG,1,Chicago State,,WAC,1,111,42,0,69,W,2,Mackey Arena,Indiana,IN
+408,1,Friday,November,10,2017,REG,1,Southern Illinois-Edwardsville,,OVC,1,105,74,0,31,W,1,Mackey Arena,Indiana,IN
+407,35,Thursday,March,23,2017,NCAA,3,Kansas,3,Big 12,0,66,98,0,-32,L,1,Sprint Center,Missouri,MO
+406,34,Saturday,March,18,2017,NCAA,3,Iowa State,16,Big 12,1,80,76,0,4,W,2,BMO Harris Bradley Center,Wisconsin,WI
+405,33,Thursday,March,16,2017,NCAA,3,Vermont,,AEC,1,80,70,0,10,W,1,BMO Harris Bradley Center,Wisconsin,WI
+404,32,Friday,March,10,2017,CTOURN,3,Michigan,,Big Ten,0,70,74,1,-4,L,1,Verizon Center,Washington DC,DC
+403,31,Sunday,March,5,2017,REG,2,Northwestern,,Big Ten,1,69,65,0,4,W,2,Welsh-Ryan Arena,Illinois,IL
+402,30,Tuesday,February,28,2017,REG,1,Indiana,,Big Ten,1,86,75,0,11,W,1,Mackey Arena,Indiana,IN
+401,29,Saturday,February,25,2017,REG,2,Michigan,,Big Ten,0,70,82,0,-12,L,1,Crisler Arena,Michigan,MI
+400,28,Tuesday,February,21,2017,REG,2,Penn State,,Big Ten,1,74,70,1,4,W,6,Bryce Jordan Center,Pennsylvania,PA
+399,27,Saturday,February,18,2017,REG,1,Michigan State,,Big Ten,1,80,63,0,17,W,5,Mackey Arena,Indiana,IN
+398,26,Tuesday,February,14,2017,REG,1,Rutgers,,Big Ten,1,74,55,0,19,W,4,Mackey Arena,Indiana,IN
+397,25,Thursday,February,9,2017,REG,2,Indiana,,Big Ten,1,69,64,0,5,W,3,Assembly Hall,Indiana,IN
+396,24,Saturday,February,4,2017,REG,2,Maryland,17,Big Ten,1,73,72,0,1,W,2,Xfinity Center,Maryland,MD
+395,23,Wednesday,February,1,2017,REG,1,Northwestern,25,Big Ten,1,80,59,0,21,W,1,Mackey Arena,Indiana,IN
+394,22,Sunday,January,29,2017,REG,2,Nebraska,,Big Ten,0,80,83,0,-3,L,1,Pinnacle Bank Arena,Nebraska,NE
+393,21,Tuesday,January,24,2017,REG,2,Michigan State,,Big Ten,1,84,73,0,11,W,3,Breslin Student Events Center,Michigan,MI
+392,20,Saturday,January,21,2017,REG,1,Penn State,,Big Ten,1,77,52,0,25,W,2,Mackey Arena,Indiana,IN
+391,19,Tuesday,January,17,2017,REG,1,Illinois,,Big Ten,1,91,68,0,23,W,1,Mackey Arena,Indiana,IN
+390,18,Thursday,January,12,2017,REG,2,Iowa,,Big Ten,0,78,83,0,-5,L,1,Carver-Hawkeye Arena,Iowa,IA
+389,17,Sunday,January,8,2017,REG,1,Wisconsin,13,Big Ten,1,66,55,0,11,W,2,Mackey Arena,Indiana,IN
+388,16,Thursday,January,5,2017,REG,2,Ohio State,,Big Ten,1,76,75,0,1,W,1,Value City Arena,Ohio,OH
+387,15,Sunday,January,1,2017,REG,1,Minnesota,,Big Ten,0,82,91,1,-9,L,1,Mackey Arena,Indiana,IN
+386,14,Wednesday,December,28,2016,REG,1,Iowa,,Big Ten,1,89,67,0,22,W,7,Mackey Arena,Indiana,IN
+385,13,Wednesday,December,21,2016,REG,1,Norfolk State,,MEAC,1,91,45,0,46,W,6,Mackey Arena,Indiana,IN
+384,12,Monday,December,19,2016,REG,1,Western Illinois,,Summit,1,82,50,0,32,W,5,Mackey Arena,Indiana,IN
+383,11,Saturday,December,17,2016,REG,3,Notre Dame,21,ACC,1,86,81,0,5,W,4,Gainbridge Fieldhouse,Indiana,IN
+382,10,Saturday,December,10,2016,REG,1,Cleveland State,,Horizon,1,77,53,0,24,W,3,Mackey Arena,Indiana,IN
+381,9,Tuesday,December,6,2016,REG,3,Arizona State,,Pac-12,1,97,64,0,33,W,2,Madison Square Garden (IV),New York,NY
+380,8,Saturday,December,3,2016,REG,1,Morehead State,,OVC,1,90,56,0,34,W,1,Mackey Arena,Indiana,IN
+379,7,Wednesday,November,30,2016,REG,2,Louisville,14,ACC,0,64,71,0,-7,L,1,KFC Yum! Center,Kentucky,KY
+378,6,Saturday,November,26,2016,REG,1,NJIT,,A-Sun,1,79,68,0,11,W,4,Mackey Arena,Indiana,IN
+377,5,Wednesday,November,23,2016,REG,3,Auburn,,SEC,1,96,71,0,25,W,3,Hard Rock Hotel Riviera Maya,Mexico,MX
+376,4,Tuesday,November,22,2016,REG,3,Utah State,,MWC,1,85,64,0,21,W,2,Hard Rock Hotel Riviera Maya,Mexico,MX
+375,3,Friday,November,18,2016,REG,1,Georgia State,,Sun Belt,1,64,56,0,8,W,1,Mackey Arena,Indiana,IN
+374,2,Monday,November,14,2016,REG,1,Villanova,3,Big East,0,76,79,0,-3,L,1,Mackey Arena,Indiana,IN
+373,1,Friday,November,11,2016,REG,1,McNeese State,,Southland,1,109,65,0,44,W,1,Mackey Arena,Indiana,IN
+372,35,Thursday,March,17,2016,NCAA,3,Little Rock,,Sun Belt,0,83,85,2,-2,L,2,Pepsi Center,Colorado,CO
+371,34,Sunday,March,13,2016,CTOURN,3,Michigan State,2,Big Ten,0,62,66,0,-4,L,1,Gainbridge Fieldhouse,Indiana,IN
+370,33,Saturday,March,12,2016,CTOURN,3,Michigan,,Big Ten,1,76,59,0,17,W,5,Gainbridge Fieldhouse,Indiana,IN
+369,32,Friday,March,11,2016,CTOURN,3,Illinois,,Big Ten,1,89,58,0,31,W,4,Gainbridge Fieldhouse,Indiana,IN
+368,31,Sunday,March,6,2016,REG,1,Wisconsin,,Big Ten,1,91,80,0,11,W,3,Mackey Arena,Indiana,IN
+367,30,Tuesday,March,1,2016,REG,2,Nebraska,,Big Ten,1,81,62,0,19,W,2,Pinnacle Bank Arena,Nebraska,NE
+366,29,Saturday,February,27,2016,REG,1,Maryland,10,Big Ten,1,83,79,0,4,W,1,Mackey Arena,Indiana,IN
+365,28,Saturday,February,20,2016,REG,2,Indiana,22,Big Ten,0,73,77,0,-4,L,1,Assembly Hall,Indiana,IN
+364,27,Tuesday,February,16,2016,REG,1,Northwestern,,Big Ten,1,71,61,0,10,W,1,Mackey Arena,Indiana,IN
+363,26,Saturday,February,13,2016,REG,2,Michigan,,Big Ten,0,56,61,0,-5,L,1,Crisler Arena,Michigan,MI
+362,25,Tuesday,February,9,2016,REG,1,Michigan State,8,Big Ten,1,82,81,1,1,W,1,Mackey Arena,Indiana,IN
+361,24,Saturday,February,6,2016,REG,2,Maryland,4,Big Ten,0,61,72,0,-11,L,1,Xfinity Center,Maryland,MD
+360,23,Saturday,January,30,2016,REG,1,Nebraska,,Big Ten,1,89,74,0,15,W,2,Mackey Arena,Indiana,IN
+359,22,Wednesday,January,27,2016,REG,2,Minnesota,,Big Ten,1,68,64,0,4,W,1,Williams Arena,Minnesota,MN
+358,21,Sunday,January,24,2016,REG,2,Iowa,9,Big Ten,0,71,83,0,-12,L,1,Carver-Hawkeye Arena,Iowa,IA
+357,20,Thursday,January,21,2016,REG,1,Ohio State,,Big Ten,1,75,64,0,11,W,3,Mackey Arena,Indiana,IN
+356,19,Monday,January,18,2016,REG,2,Rutgers,,Big Ten,1,107,57,0,50,W,2,Jersey Mike''s Arena,New Jersey,NJ
+355,18,Wednesday,January,13,2016,REG,1,Penn State,,Big Ten,1,74,57,0,17,W,1,Mackey Arena,Indiana,IN
+354,17,Sunday,January,10,2016,REG,2,Illinois,,Big Ten,0,70,84,0,-14,L,1,State Farm Center,Illinois,IL
+353,16,Thursday,January,7,2016,REG,1,Michigan,,Big Ten,1,87,70,0,17,W,1,Mackey Arena,Indiana,IN
+352,15,Saturday,January,2,2016,REG,1,Iowa,,Big Ten,0,63,70,0,-7,L,1,Mackey Arena,Indiana,IN
+351,14,Tuesday,December,29,2015,REG,2,Wisconsin,,Big Ten,1,61,55,0,6,W,2,Kohl Center,Wisconsin,WI
+350,13,Tuesday,December,22,2015,REG,1,Vanderbilt,,SEC,1,68,55,0,13,W,1,Mackey Arena,Indiana,IN
+349,12,Saturday,December,19,2015,REG,3,Butler,17,Big East,0,68,74,0,-6,L,1,Gainbridge Fieldhouse,Indiana,IN
+348,11,Saturday,December,12,2015,REG,1,Youngstown State,,Horizon,1,95,64,0,31,W,11,Mackey Arena,Indiana,IN
+347,10,Wednesday,December,9,2015,REG,1,Howard,,MEAC,1,93,55,0,38,W,10,Mackey Arena,Indiana,IN
+346,9,Monday,December,7,2015,REG,1,IUPUI,,Summit,1,80,53,0,27,W,9,Mackey Arena,Indiana,IN
+345,8,Saturday,December,5,2015,REG,1,New Mexico,,MWC,1,70,58,0,12,W,8,Mackey Arena,Indiana,IN
+344,7,Tuesday,December,1,2015,REG,2,Pittsburgh,,ACC,1,72,59,0,13,W,7,Petersen Events Center,Pennsylvania,PA
+343,6,Saturday,November,28,2015,REG,1,Lehigh,,Patriot,1,77,55,0,22,W,6,Mackey Arena,Indiana,IN
+342,5,Sunday,November,22,2015,REG,3,Florida,,SEC,1,85,70,0,15,W,5,Mohegan Sun Arena,Connecticut,CT
+341,4,Saturday,November,21,2015,REG,3,Old Dominion,,CUSA,1,61,39,0,22,W,4,Mohegan Sun Arena,Connecticut,CT
+340,3,Wednesday,November,18,2015,REG,1,Incarnate Word,,Southland,1,96,61,0,35,W,3,Mackey Arena,Indiana,IN
+339,2,Sunday,November,15,2015,REG,1,Vermont,,AEC,1,107,79,0,28,W,2,Mackey Arena,Indiana,IN
+338,1,Friday,November,13,2015,REG,1,North Carolina A&T,,MEAC,1,81,40,0,41,W,1,Mackey Arena,Indiana,IN
+337,34,Thursday,March,19,2015,NCAA,3,Cincinnati,,AAC,0,65,66,1,-1,L,2,KFC Yum! Center,Kentucky,KY
+336,33,Saturday,March,14,2015,CTOURN,3,Wisconsin,6,Big Ten,0,51,71,0,-20,L,1,United Center,Illinois,IL
+335,32,Friday,March,13,2015,CTOURN,3,Penn State,,Big Ten,1,64,59,0,5,W,2,United Center,Illinois,IL
+334,31,Saturday,March,7,2015,REG,1,Illinois,,Big Ten,1,63,58,0,5,W,1,Mackey Arena,Indiana,IN
+333,30,Wednesday,March,4,2015,REG,2,Michigan State,,Big Ten,0,66,72,0,-6,L,2,Breslin Student Events Center,Michigan,MI
+332,29,Sunday,March,1,2015,REG,2,Ohio State,,Big Ten,0,61,65,0,-4,L,1,Value City Arena,Ohio,OH
+331,28,Thursday,February,26,2015,REG,1,Rutgers,,Big Ten,1,92,85,0,7,W,4,Mackey Arena,Indiana,IN
+330,27,Thursday,February,19,2015,REG,2,Indiana,,Big Ten,1,67,63,0,4,W,3,Assembly Hall,Indiana,IN
+329,26,Sunday,February,15,2015,REG,1,Nebraska,,Big Ten,1,66,54,0,12,W,2,Mackey Arena,Indiana,IN
+328,25,Thursday,February,12,2015,REG,2,Rutgers,,Big Ten,1,61,51,0,10,W,1,Jersey Mike''s Arena,New Jersey,NJ
+327,24,Saturday,February,7,2015,REG,2,Minnesota,,Big Ten,0,58,62,0,-4,L,1,Williams Arena,Minnesota,MN
+326,23,Wednesday,February,4,2015,REG,1,Ohio State,20,Big Ten,1,60,58,0,2,W,4,Mackey Arena,Indiana,IN
+325,22,Saturday,January,31,2015,REG,2,Northwestern,,Big Ten,1,68,60,0,8,W,3,Welsh-Ryan Arena,Illinois,IL
+324,21,Wednesday,January,28,2015,REG,1,Indiana,22,Big Ten,1,83,67,0,16,W,2,Mackey Arena,Indiana,IN
+323,20,Saturday,January,24,2015,REG,1,Iowa,25,Big Ten,1,67,63,0,4,W,1,Mackey Arena,Indiana,IN
+322,19,Wednesday,January,21,2015,REG,2,Illinois,,Big Ten,0,57,66,0,-9,L,1,State Farm Center,Illinois,IL
+321,18,Saturday,January,17,2015,REG,2,Penn State,,Big Ten,1,84,77,1,7,W,1,Bryce Jordan Center,Pennsylvania,PA
+320,17,Saturday,January,10,2015,REG,1,Maryland,11,Big Ten,0,60,69,0,-9,L,2,Mackey Arena,Indiana,IN
+319,16,Wednesday,January,7,2015,REG,2,Wisconsin,4,Big Ten,0,55,62,0,-7,L,1,Kohl Center,Wisconsin,WI
+318,15,Saturday,January,3,2015,REG,1,Michigan,,Big Ten,1,64,51,0,13,W,2,Mackey Arena,Indiana,IN
+317,14,Wednesday,December,31,2014,REG,1,Minnesota,,Big Ten,1,72,68,0,4,W,1,Mackey Arena,Indiana,IN
+316,13,Monday,December,22,2014,REG,1,Gardner-Webb,,Big South,0,84,89,0,-5,L,3,Mackey Arena,Indiana,IN
+315,12,Saturday,December,20,2014,REG,3,Notre Dame,21,ACC,0,63,94,0,-31,L,2,Gainbridge Fieldhouse,Indiana,IN
+314,11,Saturday,December,13,2014,REG,2,Vanderbilt,,SEC,0,71,81,0,-10,L,1,Memorial Gymnasium,Tennessee,TN
+313,10,Wednesday,December,10,2014,REG,1,Arkansas State,,Sun Belt,1,87,46,0,41,W,2,Mackey Arena,Indiana,IN
+312,9,Monday,December,8,2014,REG,1,Purdue-Fort Wayne,,Summit,1,63,43,0,20,W,1,Mackey Arena,Indiana,IN
+311,8,Saturday,December,6,2014,REG,1,North Florida,,A-Sun,0,70,73,0,-3,L,1,Mackey Arena,Indiana,IN
+310,7,Tuesday,December,2,2014,REG,1,NC State,,ACC,1,66,61,0,5,W,3,Mackey Arena,Indiana,IN
+309,6,Wednesday,November,26,2014,REG,3,Brigham Young,,WCC,1,87,85,1,2,W,2,Lahaina Civic Center,Hawaii,HI
+308,5,Tuesday,November,25,2014,REG,3,Missouri,,SEC,1,82,61,0,21,W,1,Lahaina Civic Center,Hawaii,HI
+307,4,Monday,November,24,2014,REG,3,Kansas State,,Big 12,0,79,88,0,-9,L,1,Lahaina Civic Center,Hawaii,HI
+306,3,Thursday,November,20,2014,REG,1,Grambling,,SWAC,1,82,30,0,52,W,3,Mackey Arena,Indiana,IN
+305,2,Sunday,November,16,2014,REG,1,IUPUI,,Summit,1,77,57,0,20,W,2,Mackey Arena,Indiana,IN
+304,1,Friday,November,14,2014,REG,1,Samford,,Southern,1,80,40,0,40,W,1,Mackey Arena,Indiana,IN
+303,32,Thursday,March,13,2014,CTOURN,3,Ohio State,24,Big Ten,0,61,63,0,-2,L,7,Gainbridge Fieldhouse,Indiana,IN
+302,31,Sunday,March,9,2014,REG,1,Northwestern,,Big Ten,0,65,74,0,-9,L,6,Mackey Arena,Indiana,IN
+301,30,Wednesday,March,5,2014,REG,2,Wisconsin,9,Big Ten,0,70,76,0,-6,L,5,Kohl Center,Wisconsin,WI
+300,29,Sunday,March,2,2014,REG,2,Iowa,20,Big Ten,0,76,83,0,-7,L,4,Carver-Hawkeye Arena,Iowa,IA
+299,28,Wednesday,February,26,2014,REG,1,Michigan,16,Big Ten,0,76,77,1,-1,L,3,Mackey Arena,Indiana,IN
+298,27,Sunday,February,23,2014,REG,2,Nebraska,,Big Ten,0,57,76,0,-19,L,2,Pinnacle Bank Arena,Nebraska,NE
+297,26,Thursday,February,20,2014,REG,1,Michigan State,13,Big Ten,0,79,94,0,-15,L,1,Mackey Arena,Indiana,IN
+296,25,Saturday,February,15,2014,REG,1,Indiana,,Big Ten,1,82,64,0,18,W,1,Mackey Arena,Indiana,IN
+295,24,Saturday,February,8,2014,REG,2,Ohio State,,Big Ten,0,49,67,0,-18,L,1,Value City Arena,Ohio,OH
+294,23,Wednesday,February,5,2014,REG,1,Minnesota,,Big Ten,1,77,74,3,3,W,1,Mackey Arena,Indiana,IN
+293,22,Sunday,February,2,2014,REG,2,Penn State,,Big Ten,0,68,79,0,-11,L,4,Bryce Jordan Center,Pennsylvania,PA
+292,21,Thursday,January,30,2014,REG,2,Michigan,10,Big Ten,0,66,75,0,-9,L,3,Crisler Arena,Michigan,MI
+291,20,Saturday,January,25,2014,REG,1,Wisconsin,9,Big Ten,0,58,72,0,-14,L,2,Mackey Arena,Indiana,IN
+290,19,Tuesday,January,21,2014,REG,2,Northwestern,,Big Ten,0,60,63,2,-3,L,1,Welsh-Ryan Arena,Illinois,IL
+289,18,Saturday,January,18,2014,REG,1,Penn State,,Big Ten,1,65,64,0,1,W,3,Mackey Arena,Indiana,IN
+288,17,Wednesday,January,15,2014,REG,2,Illinois,,Big Ten,1,66,58,0,8,W,2,State Farm Center,Illinois,IL
+287,16,Sunday,January,12,2014,REG,1,Nebraska,,Big Ten,1,70,64,0,6,W,1,Mackey Arena,Indiana,IN
+286,15,Sunday,January,5,2014,REG,2,Minnesota,,Big Ten,0,79,82,0,-3,L,2,Williams Arena,Minnesota,MN
+285,14,Tuesday,December,31,2013,REG,1,Ohio State,3,Big Ten,0,69,78,0,-9,L,1,Mackey Arena,Indiana,IN
+284,13,Sunday,December,22,2013,REG,2,West Virginia,,Big 12,1,73,70,0,3,W,2,WVU Coliseum,West Virginia,WV
+283,12,Tuesday,December,17,2013,REG,1,Maryland-Eastern Shore,,MEAC,1,79,50,0,29,W,1,Mackey Arena,Indiana,IN
+282,11,Saturday,December,14,2013,REG,3,Butler,,Big East,0,70,76,0,-6,L,1,Gainbridge Fieldhouse,Indiana,IN
+281,10,Saturday,December,7,2013,REG,1,Eastern Michigan,,MAC,1,69,64,0,5,W,3,Mackey Arena,Indiana,IN
+280,9,Wednesday,December,4,2013,REG,1,Boston College,,ACC,1,88,67,0,21,W,2,Mackey Arena,Indiana,IN
+279,8,Sunday,December,1,2013,REG,3,Siena,,MAAC,1,68,63,0,5,W,1,State Farm Field House,Florida,FL
+278,7,Friday,November,29,2013,REG,3,Washington State,,Pac-12,0,54,69,0,-15,L,2,State Farm Field House,Florida,FL
+277,6,Thursday,November,28,2013,REG,3,Oklahoma State,5,Big 12,0,87,97,0,-10,L,1,State Farm Field House,Florida,FL
+276,5,Sunday,November,24,2013,REG,1,Siena,,MAAC,1,81,73,0,8,W,5,Mackey Arena,Indiana,IN
+275,4,Wednesday,November,20,2013,REG,1,Eastern Illinois,,OVC,1,83,55,0,28,W,4,Mackey Arena,Indiana,IN
+274,3,Sunday,November,17,2013,REG,1,Rider,,MAAC,1,81,77,0,4,W,3,Mackey Arena,Indiana,IN
+273,2,Wednesday,November,13,2013,REG,1,Central Connecticut State,,NEC,1,109,73,0,36,W,2,Mackey Arena,Indiana,IN
+272,1,Friday,November,8,2013,REG,1,Northern Kentucky,,A-Sun,1,77,76,0,1,W,1,Mackey Arena,Indiana,IN
+271,34,Monday,March,25,2013,CBI,1,Santa Clara,,WCC,0,83,86,0,-3,L,1,Mackey Arena,Indiana,IN
+270,33,Wednesday,March,20,2013,CBI,1,Western Illinois,,Summit,1,81,67,0,14,W,1,Mackey Arena,Indiana,IN
+269,32,Thursday,March,14,2013,CTOURN,3,Nebraska,,Big Ten,0,55,57,0,-2,L,1,United Center,Illinois,IL
+268,31,Saturday,March,9,2013,REG,1,Minnesota,,Big Ten,1,89,73,0,16,W,1,Mackey Arena,Indiana,IN
+267,30,Wednesday,March,6,2013,REG,1,Michigan,7,Big Ten,0,75,80,0,-5,L,1,Mackey Arena,Indiana,IN
+266,29,Sunday,March,3,2013,REG,2,Wisconsin,17,Big Ten,1,69,56,0,13,W,1,Kohl Center,Wisconsin,WI
+265,28,Wednesday,February,27,2013,REG,2,Iowa,,Big Ten,0,48,58,0,-10,L,1,Carver-Hawkeye Arena,Iowa,IA
+264,27,Sunday,February,24,2013,REG,1,Northwestern,,Big Ten,1,74,43,0,31,W,1,Mackey Arena,Indiana,IN
+263,26,Saturday,February,16,2013,REG,2,Indiana,1,Big Ten,0,55,83,0,-28,L,3,Assembly Hall,Indiana,IN
+262,25,Wednesday,February,13,2013,REG,2,Illinois,,Big Ten,0,59,79,0,-20,L,2,State Farm Center,Illinois,IL
+261,24,Saturday,February,9,2013,REG,1,Michigan State,12,Big Ten,0,65,78,0,-13,L,1,Mackey Arena,Indiana,IN
+260,23,Tuesday,February,5,2013,REG,2,Penn State,,Big Ten,1,58,49,0,9,W,1,Bryce Jordan Center,Pennsylvania,PA
+259,22,Saturday,February,2,2013,REG,2,Northwestern,,Big Ten,0,60,75,0,-15,L,2,Welsh-Ryan Arena,Illinois,IL
+258,21,Wednesday,January,30,2013,REG,1,Indiana,3,Big Ten,0,60,97,0,-37,L,1,Mackey Arena,Indiana,IN
+257,20,Sunday,January,27,2013,REG,1,Iowa,,Big Ten,1,65,62,1,3,W,1,Mackey Arena,Indiana,IN
+256,19,Thursday,January,24,2013,REG,2,Michigan,2,Big Ten,0,53,68,0,-15,L,1,Crisler Arena,Michigan,MI
+255,18,Saturday,January,19,2013,REG,1,West Virginia,,Big 12,1,79,52,0,27,W,3,Mackey Arena,Indiana,IN
+254,17,Wednesday,January,16,2013,REG,2,Nebraska,,Big Ten,1,65,56,0,9,W,2,Bob Devaney Sports Center,Nebraska,NE
+253,16,Sunday,January,13,2013,REG,1,Penn State,,Big Ten,1,60,42,0,18,W,1,Mackey Arena,Indiana,IN
+252,15,Tuesday,January,8,2013,REG,1,Ohio State,15,Big Ten,0,64,74,0,-10,L,2,Mackey Arena,Indiana,IN
+251,14,Saturday,January,5,2013,REG,2,Michigan State,18,Big Ten,0,61,84,0,-23,L,1,Breslin Student Events Center,Michigan,MI
+250,13,Wednesday,January,2,2013,REG,1,Illinois,11,Big Ten,1,68,61,0,7,W,3,Mackey Arena,Indiana,IN
+249,12,Saturday,December,29,2012,REG,1,William & Mary,,CAA,1,73,66,0,7,W,2,Mackey Arena,Indiana,IN
+248,11,Tuesday,December,18,2012,REG,1,Ball State,,MAC,1,66,56,0,10,W,1,Mackey Arena,Indiana,IN
+247,10,Saturday,December,15,2012,REG,3,Notre Dame,22,Big East,0,68,81,0,-13,L,2,Purcell Pavilion at the Joyce Center,Indiana,IN
+246,9,Saturday,December,8,2012,REG,2,Eastern Michigan,,MAC,0,44,47,0,-3,L,1,Convocation Center,Michigan,MI
+245,8,Tuesday,December,4,2012,REG,1,Lamar,,Southland,1,72,39,0,33,W,1,Mackey Arena,Indiana,IN
+244,7,Saturday,December,1,2012,REG,1,Xavier,,A-10,0,57,63,0,-6,L,1,Mackey Arena,Indiana,IN
+243,6,Wednesday,November,28,2012,REG,2,Clemson,,ACC,1,73,61,0,12,W,2,Littlejohn Coliseum,South Carolina,SC
+242,5,Wednesday,November,21,2012,REG,1,UNC Wilmington,,CAA,1,66,40,0,26,W,1,Mackey Arena,Indiana,IN
+241,4,Friday,November,16,2012,REG,3,Oregon State,,Pac-12,0,58,66,0,-8,L,2,Madison Square Garden (IV),New York,NY
+240,3,Thursday,November,15,2012,REG,3,Villanova,,Big East,0,81,89,1,-8,L,1,Madison Square Garden (IV),New York,NY
+239,2,Sunday,November,11,2012,REG,1,Hofstra,,CAA,1,83,54,0,29,W,1,Mackey Arena,Indiana,IN
+238,1,Friday,November,9,2012,REG,1,Bucknell,,Patriot,0,65,70,0,-5,L,1,Mackey Arena,Indiana,IN
+237,35,Sunday,March,18,2012,NCAA,3,Kansas,6,Big 12,0,60,63,0,-3,L,1,CenturyLink Center Omaha,Nebraska,NE
+236,34,Friday,March,16,2012,NCAA,3,Saint Mary's (CA),24,WCC,1,72,69,0,3,W,1,CenturyLink Center Omaha,Nebraska,NE
+235,33,Friday,March,9,2012,CTOURN,3,Ohio State,7,Big Ten,0,71,88,0,-17,L,1,Gainbridge Fieldhouse,Indiana,IN
+234,32,Thursday,March,8,2012,CTOURN,3,Nebraska,,Big Ten,1,79,61,0,18,W,1,Gainbridge Fieldhouse,Indiana,IN
+233,31,Sunday,March,4,2012,REG,2,Indiana,18,Big Ten,0,74,85,0,-11,L,1,Assembly Hall,Indiana,IN
+232,30,Wednesday,February,29,2012,REG,1,Penn State,,Big Ten,1,80,56,0,24,W,3,Mackey Arena,Indiana,IN
+231,29,Saturday,February,25,2012,REG,2,Michigan,11,Big Ten,1,75,61,0,14,W,2,Crisler Arena,Michigan,MI
+230,28,Wednesday,February,22,2012,REG,1,Nebraska,,Big Ten,1,83,65,0,18,W,1,Mackey Arena,Indiana,IN
+229,27,Sunday,February,19,2012,REG,1,Michigan State,7,Big Ten,0,62,76,0,-14,L,1,Mackey Arena,Indiana,IN
+228,26,Wednesday,February,15,2012,REG,2,Illinois,,Big Ten,1,67,62,0,5,W,2,State Farm Center,Illinois,IL
+227,25,Sunday,February,12,2012,REG,1,Northwestern,,Big Ten,1,87,77,0,10,W,1,Mackey Arena,Indiana,IN
+226,24,Tuesday,February,7,2012,REG,2,Ohio State,3,Big Ten,0,84,87,0,-3,L,2,Value City Arena,Ohio,OH
+225,23,Saturday,February,4,2012,REG,1,Indiana,20,Big Ten,0,61,78,0,-17,L,1,Mackey Arena,Indiana,IN
+224,22,Saturday,January,28,2012,REG,2,Northwestern,,Big Ten,1,58,56,0,2,W,1,Welsh-Ryan Arena,Illinois,IL
+223,21,Tuesday,January,24,2012,REG,1,Michigan,20,Big Ten,0,64,66,0,-2,L,2,Mackey Arena,Indiana,IN
+222,20,Saturday,January,21,2012,REG,2,Michigan State,9,Big Ten,0,58,83,0,-25,L,1,Breslin Student Events Center,Michigan,MI
+221,19,Tuesday,January,17,2012,REG,1,Iowa,,Big Ten,1,75,68,0,7,W,1,Mackey Arena,Indiana,IN
+220,18,Thursday,January,12,2012,REG,1,Wisconsin,,Big Ten,0,62,67,0,-5,L,1,Mackey Arena,Indiana,IN
+219,17,Sunday,January,8,2012,REG,2,Minnesota,,Big Ten,1,79,66,0,13,W,1,Williams Arena,Minnesota,MN
+218,16,Thursday,January,5,2012,REG,2,Penn State,,Big Ten,0,45,65,0,-20,L,1,Bryce Jordan Center,Pennsylvania,PA
+217,15,Saturday,December,31,2011,REG,1,Illinois,,Big Ten,1,75,60,0,15,W,3,Mackey Arena,Indiana,IN
+216,14,Wednesday,December,28,2011,REG,2,Iowa,,Big Ten,1,79,76,0,3,W,2,Carver-Hawkeye Arena,Iowa,IA
+215,13,Tuesday,December,20,2011,REG,1,Purdue-Fort Wayne,,Summit,1,81,56,0,25,W,1,Mackey Arena,Indiana,IN
+214,12,Saturday,December,17,2011,REG,3,Butler,,Horizon,0,65,67,0,-2,L,1,Gainbridge Fieldhouse,Indiana,IN
+213,11,Saturday,December,10,2011,REG,1,Eastern Michigan,,MAC,1,61,36,0,25,W,2,Mackey Arena,Indiana,IN
+212,10,Wednesday,December,7,2011,REG,1,Western Carolina,,Southern,1,65,60,0,5,W,1,Mackey Arena,Indiana,IN
+211,9,Saturday,December,3,2011,REG,2,Xavier,11,A-10,0,63,66,0,-3,L,1,Cintas Center,Ohio,OH
+210,8,Tuesday,November,29,2011,REG,1,Miami (FL),,ACC,1,76,65,0,11,W,3,Mackey Arena,Indiana,IN
+209,7,Saturday,November,26,2011,REG,1,Coppin State,,MEAC,1,78,57,0,21,W,2,Mackey Arena,Indiana,IN
+208,6,Wednesday,November,23,2011,REG,1,Western Michigan,,MAC,1,80,37,0,43,W,1,Mackey Arena,Indiana,IN
+207,5,Sunday,November,20,2011,REG,3,Alabama,16,SEC,0,56,65,0,-9,L,1,Jose Miguel Agrelot Coliseum,Puerto Rico,PR
+206,4,Friday,November,18,2011,REG,3,Temple,,A-10,1,85,77,0,8,W,4,Jose Miguel Agrelot Coliseum,Puerto Rico,PR
+205,3,Thursday,November,17,2011,REG,3,Iona,,MAAC,1,91,90,0,1,W,3,Jose Miguel Agrelot Coliseum,Puerto Rico,PR
+204,2,Monday,November,14,2011,REG,1,High Point,,Big South,1,67,65,0,2,W,2,Mackey Arena,Indiana,IN
+203,1,Friday,November,11,2011,REG,1,Northern Illinois,,MAC,1,96,34,0,62,W,1,Mackey Arena,Indiana,IN
+202,34,Sunday,March,20,2011,NCAA,3,Virginia Commonwealth,,CAA,0,76,94,0,-18,L,1,United Center,Illinois,IL
+201,33,Friday,March,18,2011,NCAA,3,Saint Peter's,,MAAC,1,65,43,0,22,W,1,United Center,Illinois,IL
+200,32,Friday,March,11,2011,CTOURN,3,Michigan State,,Big Ten,0,56,74,0,-18,L,2,Gainbridge Fieldhouse,Indiana,IN
+199,31,Saturday,March,5,2011,REG,2,Iowa,,Big Ten,0,65,67,0,-2,L,1,Carver-Hawkeye Arena,Iowa,IA
+198,30,Tuesday,March,1,2011,REG,1,Illinois,,Big Ten,1,75,67,0,8,W,7,Mackey Arena,Indiana,IN
+197,29,Sunday,February,27,2011,REG,2,Michigan State,,Big Ten,1,67,47,0,20,W,6,Breslin Student Events Center,Michigan,MI
+196,28,Wednesday,February,23,2011,REG,2,Indiana,,Big Ten,1,72,61,0,11,W,5,Assembly Hall,Indiana,IN
+195,27,Sunday,February,20,2011,REG,1,Ohio State,2,Big Ten,1,76,63,0,13,W,4,Mackey Arena,Indiana,IN
+194,26,Wednesday,February,16,2011,REG,1,Wisconsin,10,Big Ten,1,70,62,0,8,W,3,Mackey Arena,Indiana,IN
+193,25,Sunday,February,13,2011,REG,2,Illinois,,Big Ten,1,81,70,0,11,W,2,State Farm Center,Illinois,IL
+192,24,Tuesday,February,8,2011,REG,1,Indiana,,Big Ten,1,67,53,0,14,W,1,Mackey Arena,Indiana,IN
+191,23,Tuesday,February,1,2011,REG,2,Wisconsin,19,Big Ten,0,59,66,0,-7,L,1,Kohl Center,Wisconsin,WI
+190,22,Saturday,January,29,2011,REG,1,Minnesota,16,Big Ten,1,73,61,0,12,W,1,Mackey Arena,Indiana,IN
+189,21,Tuesday,January,25,2011,REG,2,Ohio State,1,Big Ten,0,64,87,0,-23,L,1,Value City Arena,Ohio,OH
+188,20,Saturday,January,22,2011,REG,1,Michigan State,17,Big Ten,1,86,76,0,10,W,2,Mackey Arena,Indiana,IN
+187,19,Wednesday,January,19,2011,REG,1,Penn State,,Big Ten,1,63,62,0,1,W,1,Mackey Arena,Indiana,IN
+186,18,Sunday,January,16,2011,REG,2,West Virginia,,Big East,0,64,68,0,-4,L,2,WVU Coliseum,West Virginia,WV
+185,17,Thursday,January,13,2011,REG,2,Minnesota,,Big Ten,0,67,70,0,-3,L,1,Williams Arena,Minnesota,MN
+184,16,Sunday,January,9,2011,REG,1,Iowa,,Big Ten,1,75,52,0,23,W,10,Mackey Arena,Indiana,IN
+183,15,Wednesday,January,5,2011,REG,2,Penn State,,Big Ten,1,83,68,0,15,W,9,Bryce Jordan Center,Pennsylvania,PA
+182,14,Friday,December,31,2010,REG,1,Northwestern,,Big Ten,1,82,69,0,13,W,8,Mackey Arena,Indiana,IN
+181,13,Tuesday,December,28,2010,REG,2,Michigan,,Big Ten,1,80,57,0,23,W,7,Crisler Arena,Michigan,MI
+180,12,Tuesday,December,21,2010,REG,1,Purdue-Fort Wayne,,Summit,1,77,52,0,25,W,6,Mackey Arena,Indiana,IN
+179,11,Saturday,December,18,2010,REG,3,Indiana State,,MVC,1,65,52,0,13,W,5,Gainbridge Fieldhouse,Indiana,IN
+178,10,Saturday,December,11,2010,REG,1,North Florida,,A-Sun,1,77,57,0,20,W,4,Mackey Arena,Indiana,IN
+177,9,Tuesday,December,7,2010,REG,2,Valparaiso,,Horizon,1,76,58,0,18,W,3,Athletics-Recreation Center,Indiana,IN
+176,8,Saturday,December,4,2010,REG,1,Alabama,,SEC,1,66,47,0,19,W,2,Mackey Arena,Indiana,IN
+175,7,Wednesday,December,1,2010,REG,2,Virginia Tech,,ACC,1,58,55,1,3,W,1,Cassell Coliseum,Virginia,VA
+174,6,Saturday,November,27,2010,REG,3,Richmond,,A-10,0,54,65,0,-11,L,1,Sears Centre,Illinois,IL
+173,5,Friday,November,26,2010,REG,3,Southern Illinois,,MVC,1,79,60,0,19,W,5,Sears Centre,Illinois,IL
+172,4,Tuesday,November,23,2010,REG,1,Austin Peay,,OVC,1,87,65,0,22,W,4,Mackey Arena,Indiana,IN
+171,3,Sunday,November,21,2010,REG,1,Oakland,,Summit,1,82,67,0,15,W,3,Mackey Arena,Indiana,IN
+170,2,Wednesday,November,17,2010,REG,1,Alcorn State,,SWAC,1,103,48,0,55,W,2,Mackey Arena,Indiana,IN
+169,1,Sunday,November,14,2010,REG,1,Howard,,MEAC,1,76,40,0,36,W,1,Mackey Arena,Indiana,IN
+168,35,Friday,March,26,2010,NCAA,3,Duke,3,ACC,0,57,70,0,-13,L,1,Reliant Stadium,Texas,TX
+167,34,Sunday,March,21,2010,NCAA,3,Texas A&M,23,Big 12,1,63,61,1,2,W,2,Spokane Veterans Memorial Arena,Washington,WA
+166,33,Friday,March,19,2010,NCAA,3,Siena,,MAAC,1,72,64,0,8,W,1,Spokane Veterans Memorial Arena,Washington,WA
+165,32,Saturday,March,13,2010,CTOURN,3,Minnesota,,Big Ten,0,42,69,0,-27,L,1,Gainbridge Fieldhouse,Indiana,IN
+164,31,Friday,March,12,2010,CTOURN,3,Northwestern,,Big Ten,1,69,61,0,8,W,3,Gainbridge Fieldhouse,Indiana,IN
+163,30,Saturday,March,6,2010,REG,2,Penn State,,Big Ten,1,64,60,0,4,W,2,Bryce Jordan Center,Pennsylvania,PA
+162,29,Wednesday,March,3,2010,REG,1,Indiana,,Big Ten,1,74,55,0,19,W,1,Mackey Arena,Indiana,IN
+161,28,Sunday,February,28,2010,REG,1,Michigan State,14,Big Ten,0,44,53,0,-9,L,1,Mackey Arena,Indiana,IN
+160,27,Wednesday,February,24,2010,REG,2,Minnesota,,Big Ten,1,59,58,0,1,W,10,Williams Arena,Minnesota,MN
+159,26,Saturday,February,20,2010,REG,1,Illinois,,Big Ten,1,75,65,0,10,W,9,Mackey Arena,Indiana,IN
+158,25,Wednesday,February,17,2010,REG,2,Ohio State,9,Big Ten,1,60,57,0,3,W,8,Value City Arena,Ohio,OH
+157,24,Saturday,February,13,2010,REG,1,Iowa,,Big Ten,1,63,40,0,23,W,7,Mackey Arena,Indiana,IN
+156,23,Tuesday,February,9,2010,REG,2,Michigan State,10,Big Ten,1,76,64,0,12,W,6,Breslin Student Events Center,Michigan,MI
+155,22,Thursday,February,4,2010,REG,2,Indiana,,Big Ten,1,78,75,0,3,W,5,Assembly Hall,Indiana,IN
+154,21,Sunday,January,31,2010,REG,1,Penn State,,Big Ten,1,66,46,0,20,W,4,Mackey Arena,Indiana,IN
+153,20,Thursday,January,28,2010,REG,1,Wisconsin,16,Big Ten,1,60,57,0,3,W,3,Mackey Arena,Indiana,IN
+152,19,Saturday,January,23,2010,REG,1,Michigan,,Big Ten,1,69,59,0,10,W,2,Mackey Arena,Indiana,IN
+151,18,Tuesday,January,19,2010,REG,2,Illinois,,Big Ten,1,84,78,0,6,W,1,State Farm Center,Illinois,IL
+150,17,Saturday,January,16,2010,REG,2,Northwestern,,Big Ten,0,64,72,0,-8,L,3,Welsh-Ryan Arena,Illinois,IL
+149,16,Tuesday,January,12,2010,REG,1,Ohio State,,Big Ten,0,66,70,0,-4,L,2,Mackey Arena,Indiana,IN
+148,15,Saturday,January,9,2010,REG,2,Wisconsin,17,Big Ten,0,66,73,0,-7,L,1,Kohl Center,Wisconsin,WI
+147,14,Tuesday,January,5,2010,REG,1,Minnesota,,Big Ten,1,79,60,0,19,W,14,Mackey Arena,Indiana,IN
+146,13,Friday,January,1,2010,REG,1,West Virginia,6,Big East,1,77,62,0,15,W,13,Mackey Arena,Indiana,IN
+145,12,Tuesday,December,29,2009,REG,2,Iowa,,Big Ten,1,67,56,0,11,W,12,Carver-Hawkeye Arena,Iowa,IA
+144,11,Tuesday,December,22,2009,REG,1,Southern Illinois-Edwardsville,,Ind,1,90,63,0,27,W,11,Mackey Arena,Indiana,IN
+143,10,Saturday,December,19,2009,REG,3,Ball State,,MAC,1,69,49,0,20,W,10,Gainbridge Fieldhouse,Indiana,IN
+142,9,Saturday,December,12,2009,REG,2,Alabama,,SEC,1,73,65,0,8,W,9,Coleman Coliseum,Michigan,MI
+141,8,Wednesday,December,9,2009,REG,1,Valparaiso,,Horizon,1,86,62,0,24,W,8,Mackey Arena,Indiana,IN
+140,7,Saturday,December,5,2009,REG,1,Buffalo,,MAC,1,101,65,0,36,W,7,Mackey Arena,Indiana,IN
+139,6,Tuesday,December,1,2009,REG,1,Wake Forest,,ACC,1,69,58,0,11,W,6,Mackey Arena,Indiana,IN
+138,5,Saturday,November,28,2009,REG,1,Central Michigan,,MAC,1,64,38,0,26,W,5,Mackey Arena,Indiana,IN
+137,4,Monday,November,23,2009,REG,3,Tennessee,9,SEC,1,73,72,0,1,W,4,Virgin Islands Sport & Fitness Center,Virgin Islands,VI
+136,3,Sunday,November,22,2009,REG,3,Saint Joseph's,,A-10,1,85,60,0,25,W,3,Virgin Islands Sport & Fitness Center,Virgin Islands,VI
+135,2,Friday,November,20,2009,REG,3,South Dakota State,,Summit,1,74,63,0,11,W,2,Virgin Islands Sport & Fitness Center,Virgin Islands,VI
+134,1,Friday,November,13,2009,REG,1,Cal State Northridge,,Big West,1,89,64,0,25,W,1,Mackey Arena,Indiana,IN
+133,37,Thursday,March,26,2009,NCAA,3,Connecticut,5,Big East,0,60,72,0,-12,L,1,University of Phoenix Stadium,Arizona,AZ
+132,36,Saturday,March,21,2009,NCAA,3,Washington,15,Pac-12,1,76,74,0,2,W,5,Rose Garden Arena,Oregon,OR
+131,35,Thursday,March,19,2009,NCAA,3,Northern Iowa,,MVC,1,61,56,0,5,W,4,Rose Garden Arena,Oregon,OR
+130,34,Sunday,March,15,2009,CTOURN,3,Ohio State,,Big Ten,1,65,61,0,4,W,3,Gainbridge Fieldhouse,Indiana,IN
+129,33,Saturday,March,14,2009,CTOURN,3,Illinois,,Big Ten,1,66,56,0,10,W,2,Gainbridge Fieldhouse,Indiana,IN
+128,32,Friday,March,13,2009,CTOURN,3,Penn State,,Big Ten,1,79,65,0,14,W,1,Gainbridge Fieldhouse,Indiana,IN
+127,31,Sunday,March,8,2009,REG,2,Michigan State,8,Big Ten,0,51,62,0,-11,L,2,Breslin Student Events Center,Michigan,MI
+126,30,Wednesday,March,4,2009,REG,1,Northwestern,,Big Ten,0,61,64,0,-3,L,1,Mackey Arena,Indiana,IN
+125,29,Saturday,February,28,2009,REG,1,Ohio State,,Big Ten,1,75,50,0,25,W,1,Mackey Arena,Indiana,IN
+124,28,Thursday,February,26,2009,REG,2,Michigan,,Big Ten,0,78,87,0,-9,L,1,Crisler Arena,Michigan,MI
+123,27,Saturday,February,21,2009,REG,1,Indiana,,Big Ten,1,81,67,0,14,W,4,Mackey Arena,Indiana,IN
+122,26,Tuesday,February,17,2009,REG,1,Michigan State,6,Big Ten,1,72,54,0,18,W,3,Mackey Arena,Indiana,IN
+121,25,Saturday,February,14,2009,REG,2,Iowa,,Big Ten,1,49,45,0,4,W,2,Carver-Hawkeye Arena,Iowa,IA
+120,24,Wednesday,February,11,2009,REG,1,Penn State,,Big Ten,1,61,47,0,14,W,1,Mackey Arena,Indiana,IN
+119,23,Sunday,February,8,2009,REG,2,Illinois,23,Big Ten,0,48,66,0,-18,L,2,State Farm Center,Illinois,IL
+118,22,Tuesday,February,3,2009,REG,2,Ohio State,,Big Ten,0,72,80,1,-8,L,1,Value City Arena,Ohio,OH
+117,21,Saturday,January,31,2009,REG,1,Michigan,,Big Ten,1,67,49,0,18,W,6,Mackey Arena,Indiana,IN
+116,20,Tuesday,January,27,2009,REG,2,Wisconsin,,Big Ten,1,64,63,0,1,W,5,Kohl Center,Wisconsin,WI
+115,19,Thursday,January,22,2009,REG,2,Minnesota,21,Big Ten,1,70,62,0,8,W,4,Williams Arena,Minnesota,MN
+114,18,Sunday,January,18,2009,REG,1,Iowa,,Big Ten,1,75,53,0,22,W,3,Mackey Arena,Indiana,IN
+113,17,Thursday,January,15,2009,REG,2,Northwestern,,Big Ten,1,63,61,0,2,W,2,Welsh-Ryan Arena,Illinois,IL
+112,16,Sunday,January,11,2009,REG,1,Wisconsin,,Big Ten,1,65,52,0,13,W,1,Mackey Arena,Indiana,IN
+111,15,Tuesday,January,6,2009,REG,2,Penn State,,Big Ten,0,64,67,0,-3,L,2,Bryce Jordan Center,Pennsylvania,PA
+110,14,Tuesday,December,30,2008,REG,1,Illinois,,Big Ten,0,67,71,1,-4,L,1,Mackey Arena,Indiana,IN
+109,13,Sunday,December,28,2008,REG,1,Valparaiso,,Horizon,1,59,45,0,14,W,6,Mackey Arena,Indiana,IN
+108,12,Monday,December,22,2008,REG,1,Purdue-Fort Wayne,,Summit,1,70,55,0,15,W,5,Mackey Arena,Indiana,IN
+107,11,Saturday,December,20,2008,REG,3,Davidson,22,Southern,1,76,58,0,18,W,4,Gainbridge Fieldhouse,Indiana,IN
+106,10,Saturday,December,13,2008,REG,1,Indiana State,,MVC,1,76,62,0,14,W,3,Mackey Arena,Indiana,IN
+105,9,Tuesday,December,9,2008,REG,2,Ball State,,MAC,1,68,39,0,29,W,2,Worthen Arena,Minnesota,MN
+104,8,Saturday,December,6,2008,REG,1,Arkansas-Pine Bluff,,SWAC,1,90,42,0,48,W,1,Mackey Arena,Indiana,IN
+103,7,Tuesday,December,2,2008,REG,1,Duke,4,ACC,0,60,76,0,-16,L,2,Mackey Arena,Indiana,IN
+102,6,Friday,November,28,2008,REG,3,Oklahoma,11,Big 12,0,82,87,1,-5,L,1,Madison Square Garden (IV),New York,NY
+101,5,Wednesday,November,26,2008,REG,3,Boston College,,ACC,1,71,64,0,7,W,5,Madison Square Garden (IV),New York,NY
+100,4,Saturday,November,22,2008,REG,1,Coppin State,,MEAC,1,66,46,0,20,W,4,Mackey Arena,Indiana,IN
+99,3,Tuesday,November,18,2008,REG,1,Loyola (IL),,Horizon,1,78,46,0,32,W,3,Mackey Arena,Indiana,IN
+98,2,Monday,November,17,2008,REG,1,Eastern Michigan,,MAC,1,87,58,0,29,W,2,Mackey Arena,Indiana,IN
+97,1,Friday,November,14,2008,REG,1,Detroit Mercy,,Horizon,1,82,50,0,32,W,1,Mackey Arena,Indiana,IN
+96,34,Saturday,March,22,2008,NCAA,3,Xavier,12,A-10,0,78,85,0,-7,L,1,Verizon Center,Washington DC,DC
+95,33,Thursday,March,20,2008,NCAA,3,Baylor,,Big 12,1,90,79,0,11,W,1,Verizon Center,Washington DC,DC
+94,32,Friday,March,14,2008,CTOURN,3,Illinois,,Big Ten,0,67,74,1,-7,L,1,Gainbridge Fieldhouse,Indiana,IN
+93,31,Sunday,March,9,2008,REG,2,Michigan,,Big Ten,1,72,58,0,14,W,1,Crisler Arena,Michigan,MI
+92,30,Tuesday,March,4,2008,REG,2,Ohio State,,Big Ten,0,77,80,1,-3,L,1,Value City Arena,Ohio,OH
+91,29,Saturday,March,1,2008,REG,1,Northwestern,,Big Ten,1,68,43,0,25,W,2,Mackey Arena,Indiana,IN
+90,28,Wednesday,February,27,2008,REG,1,Minnesota,,Big Ten,1,65,53,0,12,W,1,Mackey Arena,Indiana,IN
+89,27,Tuesday,February,19,2008,REG,2,Indiana,15,Big Ten,0,68,77,0,-9,L,1,Assembly Hall,Indiana,IN
+88,26,Saturday,February,16,2008,REG,2,Northwestern,,Big Ten,1,71,56,0,15,W,11,Welsh-Ryan Arena,Illinois,IL
+87,25,Tuesday,February,12,2008,REG,1,Michigan State,10,Big Ten,1,60,54,0,6,W,10,Mackey Arena,Indiana,IN
+86,24,Saturday,February,9,2008,REG,2,Wisconsin,8,Big Ten,1,72,67,0,5,W,9,Kohl Center,Wisconsin,WI
+85,23,Tuesday,February,5,2008,REG,1,Penn State,,Big Ten,1,67,53,0,14,W,8,Mackey Arena,Indiana,IN
+84,22,Saturday,February,2,2008,REG,2,Illinois,,Big Ten,1,83,75,0,8,W,7,State Farm Center,Illinois,IL
+83,21,Wednesday,January,30,2008,REG,1,Iowa,,Big Ten,1,51,50,0,1,W,6,Mackey Arena,Indiana,IN
+82,20,Saturday,January,26,2008,REG,1,Wisconsin,11,Big Ten,1,60,56,0,4,W,5,Mackey Arena,Indiana,IN
+81,19,Wednesday,January,23,2008,REG,2,Penn State,,Big Ten,1,64,42,0,22,W,4,Bryce Jordan Center,Pennsylvania,PA
+80,18,Saturday,January,19,2008,REG,1,Illinois,,Big Ten,1,74,67,0,7,W,3,Mackey Arena,Indiana,IN
+79,17,Wednesday,January,16,2008,REG,2,Iowa,,Big Ten,1,67,62,0,5,W,2,Carver-Hawkeye Arena,Iowa,IA
+78,16,Saturday,January,12,2008,REG,1,Ohio State,,Big Ten,1,75,68,0,7,W,1,Mackey Arena,Indiana,IN
+77,15,Tuesday,January,8,2008,REG,2,Michigan State,6,Big Ten,0,75,78,0,-3,L,1,Breslin Student Events Center,Michigan,MI
+76,14,Saturday,January,5,2008,REG,1,Michigan,,Big Ten,1,65,58,0,7,W,3,Mackey Arena,Indiana,IN
+75,13,Saturday,December,29,2007,REG,1,Florida International,,Sun Belt,1,59,44,0,15,W,2,Mackey Arena,Indiana,IN
+74,12,Sunday,December,23,2007,REG,3,Missouri State,,MVC,1,72,70,0,2,W,1,Orleans Arena,Nevada,NV
+73,11,Saturday,December,22,2007,REG,3,Iowa State,,Big 12,0,80,83,0,-3,L,2,Orleans Arena,Nevada,NV
+72,10,Wednesday,December,19,2007,REG,1,Wofford,,Southern,0,66,69,0,-3,L,1,Mackey Arena,Indiana,IN
+71,9,Monday,December,17,2007,REG,1,Texas Southern,,SWAC,1,76,56,0,20,W,2,Mackey Arena,Indiana,IN
+70,8,Saturday,December,15,2007,REG,3,Louisville,22,Big East,1,67,59,0,8,W,1,Gainbridge Fieldhouse,Indiana,IN
+69,7,Saturday,December,8,2007,REG,2,Missouri,,Big 12,0,63,73,0,-10,L,1,Mizzou Arena,Missouri,MO
+68,6,Wednesday,December,5,2007,REG,1,Ball State,,MAC,1,70,57,0,13,W,2,Mackey Arena,Indiana,IN
+67,5,Saturday,December,1,2007,REG,1,Indiana State,,MVC,1,71,60,0,11,W,1,Mackey Arena,Indiana,IN
+66,4,Tuesday,November,27,2007,REG,2,Clemson,18,ACC,0,58,61,0,-3,L,1,Littlejohn Coliseum,South Carolina,SC
+65,3,Saturday,November,24,2007,REG,1,Loyola (IL),,Horizon,1,84,53,0,31,W,3,Mackey Arena,Indiana,IN
+64,2,Tuesday,November,20,2007,REG,1,Lipscomb,,A-Sun,1,66,62,0,4,W,2,Mackey Arena,Indiana,IN
+63,1,Thursday,November,15,2007,REG,1,Bethune-Cookman,,MEAC,1,66,40,0,26,W,1,Mackey Arena,Indiana,IN
+62,34,Sunday,March,18,2007,NCAA,3,Florida,3,SEC,0,67,74,0,-7,L,1,New Orleans Arena,Louisiana,LA
+61,33,Friday,March,16,2007,NCAA,3,Arizona,,Pac-12,1,72,63,0,9,W,1,New Orleans Arena,Louisiana,LA
+60,32,Saturday,March,10,2007,CTOURN,3,Ohio State,1,Big Ten,0,52,63,0,-11,L,1,United Center,Illinois,IL
+59,31,Friday,March,9,2007,CTOURN,3,Iowa,,Big Ten,1,74,55,0,19,W,4,United Center,Illinois,IL
+58,30,Saturday,March,3,2007,REG,1,Northwestern,,Big Ten,1,73,50,0,23,W,3,Mackey Arena,Indiana,IN
+57,29,Wednesday,February,28,2007,REG,1,Minnesota,,Big Ten,1,66,47,0,19,W,2,Mackey Arena,Indiana,IN
+56,28,Saturday,February,24,2007,REG,2,Northwestern,,Big Ten,1,75,68,0,7,W,1,Welsh-Ryan Arena,Illinois,IL
+55,27,Wednesday,February,21,2007,REG,2,Iowa,,Big Ten,0,59,78,0,-19,L,1,Carver-Hawkeye Arena,Iowa,IA
+54,26,Thursday,February,15,2007,REG,1,Indiana,24,Big Ten,1,81,68,0,13,W,1,Mackey Arena,Indiana,IN
+53,25,Saturday,February,10,2007,REG,2,Ohio State,3,Big Ten,0,56,63,0,-7,L,1,Value City Arena,Ohio,OH
+52,24,Wednesday,February,7,2007,REG,1,Michigan State,,Big Ten,1,62,38,0,24,W,2,Mackey Arena,Indiana,IN
+51,23,Saturday,February,3,2007,REG,2,Penn State,,Big Ten,1,69,59,0,10,W,1,Bryce Jordan Center,Pennsylvania,PA
+50,22,Wednesday,January,31,2007,REG,1,Ohio State,4,Big Ten,0,60,78,0,-18,L,1,Mackey Arena,Indiana,IN
+49,21,Saturday,January,27,2007,REG,1,Illinois,,Big Ten,1,64,47,0,17,W,1,Mackey Arena,Indiana,IN
+48,20,Saturday,January,20,2007,REG,2,Michigan,,Big Ten,0,55,71,0,-16,L,2,Crisler Arena,Michigan,MI
+47,19,Wednesday,January,17,2007,REG,2,Wisconsin,2,Big Ten,0,64,69,0,-5,L,1,Kohl Center,Wisconsin,WI
+46,18,Saturday,January,13,2007,REG,1,Michigan,,Big Ten,1,67,53,0,14,W,1,Mackey Arena,Indiana,IN
+45,17,Wednesday,January,10,2007,REG,2,Indiana,,Big Ten,0,58,85,0,-27,L,1,Assembly Hall,Indiana,IN
+44,16,Saturday,January,6,2007,REG,1,Penn State,,Big Ten,1,64,60,0,4,W,1,Mackey Arena,Indiana,IN
+43,15,Wednesday,January,3,2007,REG,2,Minnesota,,Big Ten,0,59,65,0,-6,L,1,Williams Arena,Minnesota,MN
+42,14,Saturday,December,30,2006,REG,1,Southeast Missouri State,,OVC,1,102,65,0,37,W,1,Mackey Arena,Indiana,IN
+41,13,Thursday,December,28,2006,REG,2,Indiana State,,MVC,0,70,89,0,-19,L,1,Hulman Center,Indiana,IN
+40,12,Friday,December,22,2006,REG,1,Texas A&M-Corpus Christi,,Southland,1,79,61,0,18,W,2,Mackey Arena,Indiana,IN
+39,11,Tuesday,December,19,2006,REG,1,Wagner,,NEC,1,95,56,0,39,W,1,Mackey Arena,Indiana,IN
+38,10,Saturday,December,16,2006,REG,2,Butler,18,Horizon,0,65,68,0,-3,L,1,Hinkle Fieldhouse,Indiana,IN
+37,9,Saturday,December,9,2006,REG,1,Missouri,,Big 12,1,79,62,0,17,W,6,Mackey Arena,Indiana,IN
+36,8,Tuesday,December,5,2006,REG,1,Loyola (IL),,Horizon,1,78,62,0,16,W,5,Mackey Arena,Indiana,IN
+35,7,Saturday,December,2,2006,REG,1,Delaware State,,MEAC,1,62,40,0,22,W,4,Mackey Arena,Indiana,IN
+34,6,Wednesday,November,29,2006,REG,1,Virginia,25,ACC,1,61,59,0,2,W,3,Mackey Arena,Indiana,IN
+33,5,Wednesday,November,22,2006,REG,3,DePaul,,Big East,1,81,73,0,8,W,2,Lahaina Civic Center,Hawaii,HI
+32,4,Tuesday,November,21,2006,REG,3,Oklahoma,,Big 12,1,74,71,0,3,W,1,Lahaina Civic Center,Hawaii,HI
+31,3,Monday,November,20,2006,REG,3,Georgia Tech,19,ACC,0,61,79,0,-18,L,1,Lahaina Civic Center,Hawaii,HI
+30,2,Friday,November,17,2006,REG,1,Western Carolina,,Southern,1,82,57,0,25,W,2,Mackey Arena,Indiana,IN
+29,1,Monday,November,13,2006,REG,1,Northern Colorado,,Big Sky,1,90,58,0,32,W,1,Mackey Arena,Indiana,IN
+28,28,Thursday,March,9,2006,CTOURN,3,Michigan State,,Big Ten,0,58,70,0,-12,L,5,Gainbridge Fieldhouse,Indiana,IN
+27,27,Sunday,March,5,2006,REG,2,Ohio State,9,Big Ten,0,57,76,0,-19,L,4,Value City Arena,Ohio,OH
+26,26,Wednesday,March,1,2006,REG,1,Indiana,,Big Ten,0,59,70,0,-11,L,3,Mackey Arena,Indiana,IN
+25,25,Wednesday,February,22,2006,REG,2,Minnesota,,Big Ten,0,50,62,0,-12,L,2,Williams Arena,Minnesota,MN
+24,24,Saturday,February,18,2006,REG,1,Penn State,,Big Ten,0,61,69,0,-8,L,1,Mackey Arena,Indiana,IN
+23,23,Saturday,February,11,2006,REG,1,Michigan,22,Big Ten,1,84,70,0,14,W,1,Mackey Arena,Indiana,IN
+22,22,Wednesday,February,8,2006,REG,2,Michigan State,12,Big Ten,0,52,77,0,-25,L,1,Breslin Student Events Center,Michigan,MI
+21,21,Saturday,February,4,2006,REG,1,Wisconsin,,Big Ten,1,70,62,0,8,W,1,Mackey Arena,Indiana,IN
+20,20,Wednesday,February,1,2006,REG,1,Iowa,23,Big Ten,0,68,77,0,-9,L,5,Mackey Arena,Indiana,IN
+19,19,Saturday,January,28,2006,REG,2,Illinois,8,Big Ten,0,58,76,0,-18,L,4,State Farm Center,Illinois,IL
+18,18,Wednesday,January,25,2006,REG,1,Northwestern,,Big Ten,0,76,78,1,-2,L,3,Mackey Arena,Indiana,IN
+17,17,Saturday,January,21,2006,REG,2,Indiana,13,Big Ten,0,49,62,0,-13,L,2,Assembly Hall,Indiana,IN
+16,16,Wednesday,January,18,2006,REG,2,Penn State,,Big Ten,0,54,74,0,-20,L,1,Bryce Jordan Center,Pennsylvania,PA
+15,15,Saturday,January,14,2006,REG,1,Minnesota,,Big Ten,1,72,55,0,17,W,1,Mackey Arena,Indiana,IN
+14,14,Wednesday,January,11,2006,REG,1,Ohio State,19,Big Ten,0,64,80,0,-16,L,4,Mackey Arena,Indiana,IN
+13,13,Saturday,January,7,2006,REG,2,Michigan,,Big Ten,0,65,68,0,-3,L,3,Crisler Arena,Michigan,MI
+12,12,Wednesday,January,4,2006,REG,2,Northwestern,,Big Ten,0,53,66,0,-13,L,2,Welsh-Ryan Arena,Illinois,IL
+11,11,Friday,December,30,2005,REG,2,Memphis,4,CUSA,0,70,90,0,-20,L,1,FedExForum,Tennessee,TN
+10,10,Wednesday,December,28,2005,REG,1,Tennessee-Martin,,OVC,1,62,54,0,8,W,3,Mackey Arena,Indiana,IN
+9,9,Tuesday,December,20,2005,REG,1,Purdue-Fort Wayne,,Ind,1,79,69,0,10,W,2,Mackey Arena,Indiana,IN
+8,8,Saturday,December,17,2005,REG,1,New Orleans,,Sun Belt,1,68,56,0,12,W,1,Mackey Arena,Indiana,IN
+7,7,Sunday,December,11,2005,REG,2,Loyola (IL),,Horizon,0,65,80,0,-15,L,1,Joseph J. Gentile Center,Illinois,IL
+6,6,Tuesday,December,6,2005,REG,1,Chicago State,,Mid-Cont,1,69,56,0,13,W,1,Mackey Arena,Indiana,IN
+5,5,Saturday,December,3,2005,REG,2,Evansville,,MVC,0,69,75,0,-6,L,3,Roberts Stadium,Indiana,IN
+4,4,Tuesday,November,29,2005,REG,2,Florida State,,ACC,0,57,97,0,-40,L,2,Tallahassee-Leon County Civic Center,Florida,FL
+3,3,Saturday,November,26,2005,REG,3,Xavier,,A-10,0,55,74,0,-19,L,1,Gainbridge Fieldhouse,Indiana,IN
+2,2,Tuesday,November,22,2005,REG,1,South Alabama,,Sun Belt,1,85,67,0,18,W,2,Mackey Arena,Indiana,IN
+1,1,Saturday,November,19,2005,REG,1,Wofford,,Southern,1,82,75,0,7,W,1,Mackey Arena,Indiana,IN
